@@ -112,7 +112,7 @@ footer{
 @media screen  and (max-width: 767px){
     .conteudo{
         margin: auto;
-        font-size: 1.3rem;
+        font-size: 1.2rem;
         width: 70%;
     }
     .menu li{
