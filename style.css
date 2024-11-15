@@ -87,8 +87,7 @@ strong{
 .conteudo{
     height: 0%;
     margin: 40px;
-    position: relative;
-    top: 70px;
+    padding-top: 5%;
     font-size: 1.4rem;
     width: 50%;
 }
@@ -134,5 +133,8 @@ footer{
     }
     li.resp-n{
         display: none;
+    }
+    html, body{
+        overflow-y: scroll;
     }
 }
